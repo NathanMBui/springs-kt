@@ -1,4 +1,4 @@
-package com.nathanmbui.restservice
+package com.nathanmbui.restservice.greeting
 
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RequestParam
